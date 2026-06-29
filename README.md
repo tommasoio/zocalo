@@ -1,5 +1,5 @@
 # poll-system
 
 ## Overview
-Polling application
+Polling application м
 
