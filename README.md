@@ -1,5 +1,5 @@
 # poll-system
 
 ## Overview
-Polling application м
+Polling application tilt
 
