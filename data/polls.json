@@ -1,0 +1,15 @@
+[
+  {
+    "title": "Favorite Programming Language",
+    "options": [
+      "Python",
+      "Go",
+      "Rust"
+    ],
+    "votes": {
+      "Python": 5,
+      "Go": 3,
+      "Rust": 4
+    }
+  }
+]
