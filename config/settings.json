@@ -1,0 +1,6 @@
+{
+  "allow_multiple_votes": false,
+  "auto_save": true,
+  "export_directory": "data/exports",
+  "default_format": "json"
+}
