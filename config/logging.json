@@ -1,0 +1,6 @@
+{
+    "level": "INFO",
+    "console": true,
+    "file": "data/application.log",
+    "format": "[%(levelname)s] %(message)s"
+}
